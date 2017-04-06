@@ -1,6 +1,11 @@
 .poll-form 			{
-	margin-bottom:30px; 
+	margin-bottom:30px;
+
 }
+.btn-primary{
+	background: #8CBF26;
+}
+
 .question-group 	{
 	margin-bottom:20px;
 	background:#EEE;
